@@ -1,2 +1,1 @@
 hyderabad
-delhi
